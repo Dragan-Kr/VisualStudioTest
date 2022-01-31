@@ -10,6 +10,6 @@ namespace ProjekatKojiSePusuje
 
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
-        public string Nesto { get; set; }
+        public string Nesto1 { get; set; }
     }
 }
